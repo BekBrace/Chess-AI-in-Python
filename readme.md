@@ -8,7 +8,7 @@ and share with you intersting programs that we can write
 
 in Python or Node js.
 
-This is going to be a long vide - probably - as we are
+This is going to be a long video - probably - as we are
 
 going to write three files, maybe four ... hmmm let's see:
 
